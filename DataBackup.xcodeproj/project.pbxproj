@@ -29,6 +29,7 @@
 		FAB7F71020014F8C00DE204A /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		FAB7F71120014F8C00DE204A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FAB7F7122001507900DE204A /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		FAB7F7152001551500DE204A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		FAB7F6F920014B7100DE204A = {
 			isa = PBXGroup;
 			children = (
+				FAB7F7152001551500DE204A /* .gitignore */,
 				FAB7F714200152E700DE204A /* src */,
 				FAB7F7122001507900DE204A /* Makefile */,
 				FAB7F71020014F8C00DE204A /* LICENSE */,
