@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		FAB7F70220014B7100DE204A /* DataBackup */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataBackup; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAB7F70520014B7100DE204A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FAB7F71020014F8C00DE204A /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		FAB7F71120014F8C00DE204A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,8 @@
 		FAB7F6F920014B7100DE204A = {
 			isa = PBXGroup;
 			children = (
+				FAB7F71020014F8C00DE204A /* LICENSE */,
+				FAB7F71120014F8C00DE204A /* README.md */,
 				FAB7F70420014B7100DE204A /* DataBackup */,
 				FAB7F70320014B7100DE204A /* Products */,
 			);
